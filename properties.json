@@ -1,0 +1,293 @@
+[
+  {
+    "house_picture": "https://roomrentjaipur.com/wp-content/uploads/2021/11/91c44813-0f62-49d1-8183-3e5cf5ca47c7-1-520x397.jpg",
+    "rent_price": 2000,
+    "ratings": 4.5,
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://thumbs.dreamstime.com/b/empty-room-apartment-rent-empty-room-empty-apartment-ready-sale-rent-112552208.jpg",
+    "rent_price": 1500,
+    "ratings": 4.2,
+    "location": {
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://mediacdn.99acres.com/media1/21947/18/438958488M-1691673569825.jpg",
+    "rent_price": 1800,
+    "ratings": 4.0,
+    "location": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://mediacdn.99acres.com/media1/18481/7/369627716M-1656941676597.jpeg",
+    "rent_price": 1600,
+    "ratings": 4.4,
+    "location": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://ik.imagekit.io/flashaway/thumb_large_8c42f35c-0ca5-42a1-a043-52481fe8c87e.jpg",
+    "rent_price": 2200,
+    "ratings": 4.8,
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://example.com/house6.jpg",
+    "rent_price": 1750,
+    "ratings": 4.1,
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://is1-2.housingcdn.com/01c16c28/20381731e53f1bdec9ab1f0a16d26927/v0/fs/studio_apartment-for-rent-sector_32a-Ludhiana-bedroom.jpg",
+    "rent_price": 2100,
+    "ratings": 4.6,
+    "location": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://is1-3.housingcdn.com/01c16c28/6c792d3c207c4ee1591c05c14152fa5b/v0/fs/1_bhk_independent_builder_floor-for-rent-model_town_bathinda-Bathinda-bedroom.jpg",
+    "rent_price": 1900,
+    "ratings": 4.3,
+    "location": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://example.com/house9.jpg",
+    "rent_price": 1400,
+    "ratings": 3.9,
+    "location": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://is1-2.housingcdn.com/01c16c28/07813bea5e7ededee90254e6d98883cf/v0/medium/1_bhk_villa-for-rent-penamaluru-Krishna-bedroom.jpg.webp",
+    "rent_price": 2500,
+    "ratings": 4.9,
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://example.com/house11.jpg",
+    "rent_price": 1350,
+    "ratings": 3.8,
+    "location": {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://housing-images.n7net.in/01c16c28/79d57c60e3024b31e46c4d357240dcae/v0/medium/1_rk_apartment-for-rent-sector_48_gurgaon-Gurgaon-bedroom.jpg",
+    "rent_price": 2650,
+    "ratings": 5.0,
+    "location": {
+      "city": "Surat",
+      "state": "Gujarat",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://is1-2.housingcdn.com/01c16c28/d1fdbb6f308ea70550def3a26858fcb2/v0/fs/1_bhk_independent_house-for-rent-dispur-Guwahati-hall.jpg",
+    "rent_price": 1550,
+    "ratings": 4.2,
+    "location": {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://is1-2.housingcdn.com/01c16c28/9cd46ebd14742752280ebd8ac678d15c/v0/fs/1_bhk_independent_builder_floor-for-rent-dasarahalli-Bangalore-hall.jpeg",
+    "rent_price": 1850,
+    "ratings": 4.4,
+    "location": {
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://example.com/house15.jpg",
+    "rent_price": 2300,
+    "ratings": 4.7,
+    "location": {
+      "city": "Kanpur",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://mediacdn.99acres.com/media1/20652/0/413040278M-1679207692117.jpg",
+    "rent_price": 1600,
+    "ratings": 4.0,
+    "location": {
+      "city": "Thane",
+      "state": "Maharashtra",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://housing-images.n7net.in/01c16c28/b3dfc3dadf5bd873de21e295eb803448/v0/small/1_bhk_independent_builder_floor-for-rent-manneguda-Hyderabad-hall.jpg",
+    "rent_price": 1750,
+    "ratings": 4.1,
+    "location": {
+      "city": "Bhopal",
+      "state": "Madhya Pradesh",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://is1-3.housingcdn.com/01c16c28/bdd1b5212fa72c98c4abf57cad8f97bb/v0/medium/1_bhk_apartment-for-rent-sanjeeva_reddy_nagar-Hyderabad-hall.jpg.webp",
+    "rent_price": 1950,
+    "ratings": 4.3,
+    "location": {
+      "city": "Patna",
+      "state": "Bihar",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://images.nobroker.in/images/8a9f93a273a362d10173a451a4676834/8a9f93a273a362d10173a451a4676834_67204_493838_medium.jpg",
+    "rent_price": 1450,
+    "ratings": 3.9,
+    "location": {
+      "city": "Faridabad",
+      "state": "Haryana",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://mediacdn.99acres.com/media1/22035/1/440701962M-1692527456719.jpg",
+    "rent_price": 2200,
+    "ratings": 4.6,
+    "location": {
+      "city": "Ghaziabad",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://is1-2.housingcdn.com/01c16c28/44d3f2777711b5dd482e1ebf5f4c24d9/v0/medium/2_bhk_apartment-for-rent-shastri_nagar_vidisha-Vidisha-hall.jpg.webp",
+    "rent_price": 2100,
+    "ratings": 4.5,
+    "location": {
+      "city": "Varanasi",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://is1-3.housingcdn.com/01c16c28/4471f9f09fa117fb3d9102d246de74ff/v0/medium/2_bhk_apartment-for-rent-hal-Bangalore-hall.jpg.webp",
+    "rent_price": 1600,
+    "ratings": 4.2,
+    "location": {
+      "city": "Agra",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://is1-2.housingcdn.com/01c16c28/08b7e1daf153faae60d4baece4ac1f4e/v0/fs/2_bhk_independent_builder_floor-for-rent-neraluru-Bangalore-hall.jpg",
+    "rent_price": 1800,
+    "ratings": 4.0,
+    "location": {
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://img.staticmb.com/mbphoto/property/cropped_images/2023/Sep/21/Photo_h180_w240/68985245_4_PropertyImage1695265149337_180_240.jpg",
+    "rent_price": 1650,
+    "ratings": 4.3,
+    "location": {
+      "city": "Madurai",
+      "state": "Tamil Nadu",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://mediacdn.99acres.com/media1/22154/7/443087718M-1693636955077.jpg",
+    "rent_price": 2400,
+    "ratings": 4.7,
+    "location": {
+      "city": "Rajkot",
+      "state": "Gujarat",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://images.nobroker.in/images/8a9f0a878a8dfe72018a8e5b77c94de4/8a9f0a878a8dfe72018a8e5b77c94de4_21790_971919_medium.jpg",
+    "rent_price": 1700,
+    "ratings": 4.1,
+    "location": {
+      "city": "Jodhpur",
+      "state": "Rajasthan",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://images.nobroker.in/images/8a9fe2838adeb75f018adfe48f551e55/8a9fe2838adeb75f018adfe48f551e55_295467_816419_medium.jpg",
+    "rent_price": 2050,
+    "ratings": 4.4,
+    "location": {
+      "city": "Amritsar",
+      "state": "Punjab",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://mediacdn.99acres.com/media1/22134/16/442696504M-1693459185124.jpg",
+    "rent_price": 1880,
+    "ratings": 4.3,
+    "location": {
+      "city": "Durgapur",
+      "state": "West Bengal",
+      "country": "India"
+    }
+  },
+  {
+    "house_picture": "https://mediacdn.99acres.com/media1/22090/13/441813174M-1692976227550.jpg",
+    "rent_price": 1460,
+    "ratings": 4.0,
+    "location": {
+      "city": "Allahabad",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    }
+  },
+  
+]

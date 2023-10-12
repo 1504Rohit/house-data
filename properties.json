@@ -49,16 +49,7 @@
       "country": "India"
     }
   },
-  {
-    "house_picture": "https://example.com/house6.jpg",
-    "rent_price": 1750,
-    "ratings": 4.1,
-    "location": {
-      "city": "Hyderabad",
-      "state": "Telangana",
-      "country": "India"
-    }
-  },
+  
   {
     "house_picture": "https://is1-2.housingcdn.com/01c16c28/20381731e53f1bdec9ab1f0a16d26927/v0/fs/studio_apartment-for-rent-sector_32a-Ludhiana-bedroom.jpg",
     "rent_price": 2100,
@@ -79,16 +70,7 @@
       "country": "India"
     }
   },
-  {
-    "house_picture": "https://example.com/house9.jpg",
-    "rent_price": 1400,
-    "ratings": 3.9,
-    "location": {
-      "city": "Jaipur",
-      "state": "Rajasthan",
-      "country": "India"
-    }
-  },
+  
   {
     "house_picture": "https://is1-2.housingcdn.com/01c16c28/07813bea5e7ededee90254e6d98883cf/v0/medium/1_bhk_villa-for-rent-penamaluru-Krishna-bedroom.jpg.webp",
     "rent_price": 2500,
@@ -99,16 +81,7 @@
       "country": "India"
     }
   },
-  {
-    "house_picture": "https://example.com/house11.jpg",
-    "rent_price": 1350,
-    "ratings": 3.8,
-    "location": {
-      "city": "Lucknow",
-      "state": "Uttar Pradesh",
-      "country": "India"
-    }
-  },
+ 
   {
     "house_picture": "https://housing-images.n7net.in/01c16c28/79d57c60e3024b31e46c4d357240dcae/v0/medium/1_rk_apartment-for-rent-sector_48_gurgaon-Gurgaon-bedroom.jpg",
     "rent_price": 2650,
@@ -139,16 +112,7 @@
       "country": "India"
     }
   },
-  {
-    "house_picture": "https://example.com/house15.jpg",
-    "rent_price": 2300,
-    "ratings": 4.7,
-    "location": {
-      "city": "Kanpur",
-      "state": "Uttar Pradesh",
-      "country": "India"
-    }
-  },
+  
   {
     "house_picture": "https://mediacdn.99acres.com/media1/20652/0/413040278M-1679207692117.jpg",
     "rent_price": 1600,
